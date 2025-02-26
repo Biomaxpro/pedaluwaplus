@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1683832705 source:c:\scripts\zgadnij_liczbe\main.cpp
-	<iostream>
-	<cstdlib>
-	<time.h>
-
